@@ -1,0 +1,1 @@
+zipline run -f ~/Application/anaconda3/envs/zipline_chn_py35_2/lib/python3.5/site-packages/zipline/examples/shsz_test.py --start 2018-6-28 --end 2018-7-15 -o buyapple_out.pickle
